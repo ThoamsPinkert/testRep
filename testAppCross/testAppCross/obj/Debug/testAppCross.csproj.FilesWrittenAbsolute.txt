@@ -1,0 +1,7 @@
+/Users/xcode5/GitHub/testRep/testAppCross/testAppCross/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/xcode5/GitHub/testRep/testAppCross/testAppCross/bin/Debug/testAppCross.dll.mdb
+/Users/xcode5/GitHub/testRep/testAppCross/testAppCross/bin/Debug/testAppCross.dll
+/Users/xcode5/GitHub/testRep/testAppCross/testAppCross/obj/Debug/testAppCross.dll
+/Users/xcode5/GitHub/testRep/testAppCross/testAppCross/obj/Debug/testAppCross.dll.mdb
+/Users/xcode5/GitHub/testRep/testAppCross/testAppCross/bin/Debug/Xamarin.Forms.Core.dll
+/Users/xcode5/GitHub/testRep/testAppCross/testAppCross/bin/Debug/Xamarin.Forms.Xaml.dll
