@@ -1,0 +1,9 @@
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\testAppCross\obj\Debug\testAppCross.csprojResolveAssemblyReference.cache
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\testAppCross\obj\Debug\testAppCross.dll
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\testAppCross\bin\Debug\testAppCross.dll
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\testAppCross\bin\Debug\testAppCross.pdb
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\testAppCross\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\testAppCross\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\testAppCross\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\testAppCross\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\testAppCross\obj\Debug\testAppCross.pdb

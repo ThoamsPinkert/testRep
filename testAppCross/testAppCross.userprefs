@@ -1,1 +1,15 @@
-﻿<Properties StartupItem="iOS/testAppCross.iOS.csproj" />
+﻿<Properties StartupItem="iOS\testAppCross.iOS.csproj">
+  <DisabledProjects>
+    <String>iOS\testAppCross.iOS.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testAppCross\testAppCross.cs">
+    <Files>
+      <File FileName="testAppCross\testAppCross.cs" Line="24" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

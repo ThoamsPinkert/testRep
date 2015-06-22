@@ -1,0 +1,9 @@
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\UITests\bin\Debug\testAppCross.UITests.dll
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\UITests\bin\Debug\testAppCross.UITests.pdb
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\UITests\bin\Debug\nunit.framework.dll
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\UITests\bin\Debug\nunit.framework.xml
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\UITests\obj\Debug\testAppCross.UITests.csprojResolveAssemblyReference.cache
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\UITests\obj\Debug\testAppCross.UITests.dll
+C:\Users\tpinkert\Documents\GitHub\testRep\testAppCross\UITests\obj\Debug\testAppCross.UITests.pdb
