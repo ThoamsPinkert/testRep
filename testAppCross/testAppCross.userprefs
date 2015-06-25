@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<Properties StartupItem="iOS/testAppCross.iOS.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.7.1" />
   <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
@@ -9,6 +10,16 @@
       <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
       <File FileName="testAppCross/MyPageXaml.xaml" Line="1" Column="1" />
       <File FileName="testAppCross/MyPageXaml.xaml.cs" Line="1" Column="1" />
+=======
+﻿<Properties StartupItem="iOS\testAppCross.iOS.csproj">
+  <DisabledProjects>
+    <String>iOS\testAppCross.iOS.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testAppCross\testAppCross.cs">
+    <Files>
+      <File FileName="testAppCross\testAppCross.cs" Line="24" Column="3" />
+>>>>>>> origin/master
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
